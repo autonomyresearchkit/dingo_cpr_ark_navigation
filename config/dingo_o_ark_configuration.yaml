@@ -9,7 +9,7 @@ ark_config:
     vehicle_length: 0.69
     vehicle_width: 0.52
     stopping_distance_1M: 0.3
-    lidar_spacing: 0.42
+    lidar_spacing: 0.62
     laser_fov: 270.0
     camera_3d_memory: 0.1
     drive_direction: 1
